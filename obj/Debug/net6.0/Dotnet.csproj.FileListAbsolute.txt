@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Dotnet\bin\Debug\net6.0\Dotnet.exe
+C:\Users\Lenovo\Desktop\Dotnet\bin\Debug\net6.0\Dotnet.deps.json
+C:\Users\Lenovo\Desktop\Dotnet\bin\Debug\net6.0\Dotnet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Dotnet\bin\Debug\net6.0\Dotnet.dll
+C:\Users\Lenovo\Desktop\Dotnet\bin\Debug\net6.0\ref\Dotnet.dll
+C:\Users\Lenovo\Desktop\Dotnet\bin\Debug\net6.0\Dotnet.pdb
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.dll
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\ref\Dotnet.dll
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.pdb
+C:\Users\Lenovo\Desktop\Dotnet\obj\Debug\net6.0\Dotnet.genruntimeconfig.cache
